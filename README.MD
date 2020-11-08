@@ -35,11 +35,11 @@ Underline 2
 - [Esto es un link al index](index.html)
 
 # Imagenes
-![Logo Github](https://img2.freepng.es/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg)
+![Logo Github](https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png)
 
 # Code Snippets
 Codigo en JSON
-´´´JSON
+^^^JSON
 [
   {
     "title": "apples",
@@ -52,9 +52,9 @@ Codigo en JSON
     "description": {"text": "...", "sensitive": false}
   }
 ]
-´´´
+^^^
 Codigo en Javascript
-´´´Javascript
+^^^Javascript
 function $initHighlight(block, cls) {
   try {
     if (cls.search(/\bno\-highlight\b/) != -1)
@@ -76,7 +76,7 @@ function $initHighlight(block, cls) {
 }
 
 export  $initHighlight;
-´´´
+^^^
 
 #Tablas
 | Nombre | Apellido | Documento |
